@@ -1,0 +1,27 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Modelo de amenazas",
+    "owner": "Pablo Hernán De la Cruz Moreno",
+    "description": "Sistema bibliotecario de la Universidad Veracruzana, permite inicio de sesion, administracion y busqueda de libros",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Diagrama de flujo STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "Flujo del inicio de sesion del sistema bibliotecario de la U.V."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Cesar Gonzalez Lopez",
+    "threatTop": 0
+  }
+}
